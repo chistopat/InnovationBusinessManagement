@@ -6,4 +6,4 @@
 - [Introduction](business_practicum/!intro.md)
 
 ### Business Practicum
-- [2024-10-01](business_practicum/practicum.md)
+- [2024-10-01](business_practicum/2024-10-01.md)
